@@ -1,0 +1,12 @@
+﻿result_section,agent_id,agent_region,agent_type,successful_transactions,total_value_ghs
+1. Top 10 agents,A134,Eastern,Mobile Agent,146,60955.93
+1. Top 10 agents,A018,Western,Shop,138,59432.25
+1. Top 10 agents,A128,Greater Accra,Mobile Agent,140,57019.06
+1. Top 10 agents,A142,Eastern,Mobile Agent,125,54352.24
+1. Top 10 agents,A043,Ashanti,Shop,140,53895.60
+1. Top 10 agents,A048,Greater Accra,Shop,124,53424.64
+1. Top 10 agents,A010,Greater Accra,Kiosk,134,52804.21
+1. Top 10 agents,A086,Ashanti,Kiosk,126,52438.44
+1. Top 10 agents,A137,Central,Shop,126,52242.13
+1. Top 10 agents,A135,Ashanti,Kiosk,130,50859.76
+2. No agents without transactions,NULL,NULL,NULL,NULL,NULL

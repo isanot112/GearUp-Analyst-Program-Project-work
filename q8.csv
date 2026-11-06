@@ -1,0 +1,15 @@
+﻿analysis_by,group_name,total_loans,defaulted_loans,default_rate_pct
+KYC Tier,Tier 1,1398,96,6.87
+KYC Tier,Tier 3,301,18,5.98
+KYC Tier,Tier 2,801,34,4.24
+Product,Salary Advance,483,34,7.04
+Product,Biz Boost,602,34,5.65
+Product,Quick Cash,1415,80,5.65
+Region,CENTRAL,182,18,9.89
+Region,NORTHERN,227,17,7.49
+Region,ASHANTI,534,39,7.30
+Region,UPPER EAST,102,7,6.86
+Region,WESTERN,231,15,6.49
+Region,EASTERN,230,10,4.35
+Region,GREATER ACCRA,810,35,4.32
+Region,VOLTA,184,7,3.80
